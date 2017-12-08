@@ -924,12 +924,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/weaverryan/FOSUserBundle.git",
-                "reference": "1a5902e27b52d1d9c03e635490af4a3beabda4dc"
+                "reference": "f3f2a5e6fed922365adbbe9697d6f069e2f70f1c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/weaverryan/FOSUserBundle/zipball/1a5902e27b52d1d9c03e635490af4a3beabda4dc",
-                "reference": "1a5902e27b52d1d9c03e635490af4a3beabda4dc",
+                "url": "https://api.github.com/repos/weaverryan/FOSUserBundle/zipball/f3f2a5e6fed922365adbbe9697d6f069e2f70f1c",
+                "reference": "f3f2a5e6fed922365adbbe9697d6f069e2f70f1c",
                 "shasum": ""
             },
             "require": {
@@ -954,7 +954,6 @@
                 "swiftmailer/swiftmailer": "^4.3 || ^5.0 || ^6.0",
                 "symfony/console": "^2.8 || ^3.0 || ^4.0",
                 "symfony/phpunit-bridge": "^2.8 || ^3.0 || ^4.0",
-                "symfony/validator": "^2.8 || ^3.0 || ^4.0",
                 "symfony/yaml": "^2.8 || ^3.0 || ^4.0"
             },
             "type": "symfony-bundle",
@@ -997,7 +996,7 @@
                 "docs": "https://symfony.com/doc/master/bundles/FOSUserBundle/index.html",
                 "source": "https://github.com/weaverryan/FOSUserBundle/tree/patch-1"
             },
-            "time": "2017-12-06T21:01:17+00:00"
+            "time": "2017-12-08T01:24:39+00:00"
         },
         {
             "name": "jdorn/sql-formatter",
@@ -1971,16 +1970,16 @@
         },
         {
             "name": "symfony/flex",
-            "version": "v1.0.45",
+            "version": "v1.0.48",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/flex.git",
-                "reference": "8917eb9e7d490088b85ea2a4cd7f2ad52bb0d9ee"
+                "reference": "73436bc5c0e3b63f5655552d580b48ad0e17543f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/flex/zipball/8917eb9e7d490088b85ea2a4cd7f2ad52bb0d9ee",
-                "reference": "8917eb9e7d490088b85ea2a4cd7f2ad52bb0d9ee",
+                "url": "https://api.github.com/repos/symfony/flex/zipball/73436bc5c0e3b63f5655552d580b48ad0e17543f",
+                "reference": "73436bc5c0e3b63f5655552d580b48ad0e17543f",
                 "shasum": ""
             },
             "require": {
@@ -2013,7 +2012,7 @@
                     "email": "fabien.potencier@gmail.com"
                 }
             ],
-            "time": "2017-12-04T22:00:42+00:00"
+            "time": "2017-12-07T20:09:46+00:00"
         },
         {
             "name": "symfony/form",

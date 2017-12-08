@@ -6,4 +6,4 @@ fos_user:
         address: foo
         sender_name: bar
 
-    # resetting: false
+    resetting: false
