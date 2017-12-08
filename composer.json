@@ -9,7 +9,9 @@
         "symfony/framework-bundle": "^4.0",
         "symfony/lts": "^4@dev",
         "symfony/orm-pack": "^1.0",
+        "symfony/profiler-pack": "^1.0",
         "symfony/validator": "^4.0",
+        "symfony/web-server-bundle": "^4.0",
         "symfony/yaml": "^4.0"
     },
     "require-dev": {
