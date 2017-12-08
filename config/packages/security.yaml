@@ -15,7 +15,9 @@ security:
             pattern: ^/
             form_login:
                 provider: fos_userbundle
-                csrf_token_generator: security.csrf.token_manager
+                # To use, uncomment the `csrf_protection` section in
+                # config/packages/framework.yaml
+                # csrf_token_generator: security.csrf.token_manager
 
             logout:       true
             anonymous:    true
